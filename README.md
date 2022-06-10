@@ -17,4 +17,9 @@ Exercises to redo:
 # Sliding Window:
 - 15-Best Time to Buy and Sell Stock
 - 17-Longest Repeating Character Replacement
-- 19-Sliding Window Maximum
+- 18-Permutation_In_string
+- 20-Sliding Window Maximum
+
+# Stack
+- 22-Min_Stack
+
