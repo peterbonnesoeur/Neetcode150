@@ -21,5 +21,5 @@ Exercises to redo:
 - 20-Sliding Window Maximum
 
 # Stack
-- 22-Min_Stack
+-
 
