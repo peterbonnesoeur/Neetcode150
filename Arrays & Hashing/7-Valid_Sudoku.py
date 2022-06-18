@@ -23,7 +23,9 @@ class Solution:
         return True
 
 
-# Other solution, much more efficient since we just go trhough the sudiku, record the sets of positions and
+# Other solution, much more efficient since we just go through the sudoku, record the sets of positions and
+
+# Go through the sudoku and create a list of all the occupied positions.if 2 positions are the same, return false.
 def isValidSudoku(self, board: List[List[str]]) -> bool:
         seen = []
         for i, row in enumerate(board):

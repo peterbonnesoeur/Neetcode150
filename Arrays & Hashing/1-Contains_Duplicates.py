@@ -1,3 +1,4 @@
+# Usage of an hashmap to check if a list contains duplicates
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         counter = set()

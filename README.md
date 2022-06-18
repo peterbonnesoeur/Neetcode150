@@ -21,5 +21,7 @@ Exercises to redo:
 - 20-Sliding Window Maximum
 
 # Stack
--
+- 21-Valid_parenthesis
+- 24-Generate_Parenthesis
+- 25-Daily_temperatures
 

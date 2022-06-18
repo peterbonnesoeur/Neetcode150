@@ -1,3 +1,5 @@
+#Use the counter collections item to get the frequency of each character in the string
+
 from collections import Counter
 
 class Solution:

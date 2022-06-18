@@ -1,3 +1,5 @@
+# use a sorting function to find the anagrams and add them to a dictionnary where the key is the sorted anagram and the val is the non sorted anagram.
+
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         dict_anagrams = {}
