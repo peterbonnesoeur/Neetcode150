@@ -24,4 +24,6 @@ Exercises to redo:
 - 21-Valid_parenthesis
 - 24-Generate_Parenthesis
 - 25-Daily_temperatures
+- 26-Car_Fleet
+- 27
 

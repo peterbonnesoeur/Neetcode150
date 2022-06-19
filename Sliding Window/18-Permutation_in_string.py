@@ -15,7 +15,7 @@ class Solution:
 
 # Much faster solution:
 
-# Here we try to mathc the counter and at the exit of the window, we replenish it
+# Here we try to match the counter and at the exit of the window, we replenish it
 
 from collections import Counter
 class Solution:

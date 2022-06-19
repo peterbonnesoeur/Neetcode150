@@ -1,3 +1,6 @@
+#The trick here is to actuaally use 2 stacks. The first one acts as the regular stack while the second one just keep the last mean value that it has stored.
+# the storing system only consists in remberiong the smallest valueduring the push time
+
 from collections import deque
 class MinStack:
 

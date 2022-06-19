@@ -1,6 +1,18 @@
 from collections import deque
 class Solution:
 
+    Use dynamic programing to generate all the variations.
+
+    #The trick is to say that n_open is the number of open parenthesis we have.
+    # n_close is the number of close parenthesis we have.
+    # and n_open >= n_open
+
+    # The stopping criteria is n_open == n_close == n
+
+    # Hence here, we justuse those to rewind thestack and addclosing or opened parenthesis.
+
+    # the result is just a list of all theses variations
+
     # DFS approach - iterative
     def generateParenthesis(self, n: int) -> List[str]:
         open_n, closed_n, result = n, n, []
