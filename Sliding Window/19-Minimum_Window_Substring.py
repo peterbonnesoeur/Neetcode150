@@ -10,12 +10,6 @@ def minWindow(self, s: str, t: str) -> str:
             return s
 
 
-        if len(t) > len(s):
-            return ""
-
-        if s == t:
-            return s
-
         l = 0
         res = (-1, -1)
         min_length = float('inf')
@@ -30,7 +24,6 @@ def minWindow(self, s: str, t: str) -> str:
 
             while flag:
                 flag = False
-                #temp = s[l:r+1]
                 for item in t_count.keys():
                     if t_count[item] > window_count.get(item, 0):
                         break

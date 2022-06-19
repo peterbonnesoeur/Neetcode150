@@ -1,4 +1,5 @@
-
+#create a dictionary with a memory of the iteration of each character. If thedifference between the sum of the values contained in the window and
+# the maximum of the memory value is superior to k, then, decreise the window size.
 
 from collections import defaultdict
 class Solution:
