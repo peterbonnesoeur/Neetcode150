@@ -1,3 +1,4 @@
+#Do a set of the elements and if a number is already present in the set, remove it and move the left pointer
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
 

@@ -1,5 +1,6 @@
 
-#Using regex
+#Using regex to remove the spaces and punctuation
+# Then checking iteratively
 import re
 class Solution:
     def isPalindrome(self, s: str) -> bool:
@@ -15,6 +16,7 @@ class Solution:
 
 
 #Using pointers :
+# Then using two pointers to check if the string is a palindrome
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         l, r = 0, len(s) - 1

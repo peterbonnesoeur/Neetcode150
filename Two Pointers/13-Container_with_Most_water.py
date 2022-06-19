@@ -1,3 +1,4 @@
+#Use pointers to bound the water capacity and check if the water capicity is the max
 class Solution:
     def maxArea(self, height: List[int]) -> int:
         r, l = 0, len(height) - 1

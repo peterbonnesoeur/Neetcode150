@@ -1,3 +1,5 @@
+# Same as 13 but with walls. Hence, we use 2 new var : leftmax and RightMax to know the hoghest wall on both side that can trap water.
+
 class Solution:
     def trap(self, height: List[int]) -> int:
         l,r = 0, len(height) - 1

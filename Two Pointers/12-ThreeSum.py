@@ -1,4 +1,6 @@
-lass Solution:
+# Same as TwoSum, 1 - sort, 2 - main for loop (first third number), 3- if the sum is greater than target, decrement the right pointer, 4- if the sum is less than target, increment the left pointer, 5- if the sum is equal to target, return the pair of indices
+# 6 - if the value of the l pointer is allways the same (anmd to remove duplicates, iterate as long the val is the same.
+class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         results = []
         nums.sort()

@@ -1,3 +1,5 @@
+# Iteratively reduce the array to a set of 2 elements and use pointers on both side and iteratively increment and decrement based on assition rules
+
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
         r, l = 0, len(numbers) - 1
