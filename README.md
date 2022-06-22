@@ -2,7 +2,7 @@
 
 Exercises to redo:
 
-# Arrays & Hashing:
+![Progress](https://progress-bar.dev/21/)
 - 3-Two_sum
 - 4-Group_Anagrams
 - 6-Product_of_array_except_self
