@@ -1,3 +1,5 @@
+shopt -s expand_aliases
+
 alias yo='find . -type f -name "*.py" | wc -l'
 
 alias completion_rate='expr $(expr $(yo) \*  100) / 150'
