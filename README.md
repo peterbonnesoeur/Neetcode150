@@ -2,7 +2,7 @@
 
 ## Progression
 
-![Progress](https://progress-bar.dev/21/)
+![Progress](https://progress-bar.dev/22/)
 
 ## Exercises to redo:
 
@@ -29,4 +29,10 @@
 - 25-Daily_temperatures
 - 26-Car_Fleet
 - 27
+
+# Binary search
+Can be detected with log(n) complexity
+- 31-koko_eating_bananas
+- 32-Search_rotating_array
+- 35-Median_of_2_sorte_arrays
 
