@@ -1,8 +1,11 @@
 # Neetcode150
 
-Exercises to redo:
+## Progression
 
 ![Progress](https://progress-bar.dev/21/)
+
+## Exercises to redo:
+
 - 3-Two_sum
 - 4-Group_Anagrams
 - 6-Product_of_array_except_self
