@@ -20,10 +20,11 @@ jobs:
         shell: bash
 
       - name: Commit and push changes
+        continue-on-error: true
         run: |
           git config --global user.name "peterbonnesoeur"
           git config --global user.email "maxime.bonn@gmail.com"
 
           git add -A
-          git commit -m "commit message"
+          git commit -m "Updated the progression of the challenge"
           git push
