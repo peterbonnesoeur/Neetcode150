@@ -36,3 +36,9 @@ Can be detected with log(n) complexity
 - 32-Search_rotating_array
 - 35-Median_of_2_sorte_arrays
 
+
+# Linked List:
+32 - Reverse linked list
+34 - Reorder list
+39 - Find duplicate number
+
