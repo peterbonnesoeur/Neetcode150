@@ -41,4 +41,5 @@ Can be detected with log(n) complexity
 32 - Reverse linked list
 34 - Reorder list
 39 - Find duplicate number
-
+40 - LRU cache
+42 - Reverse K Groups
