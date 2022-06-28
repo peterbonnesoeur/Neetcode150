@@ -43,3 +43,6 @@ Can be detected with log(n) complexity
 - 39 - Find duplicate number
 - 40 - LRU cache
 - 42 - Reverse K Groups
+
+# Tree
+- 45- Diameter of binary Tree
