@@ -2,7 +2,7 @@
 
 ## Progression
 
-![Progress](https://progress-bar.dev/31/)
+![Progress](https://progress-bar.dev/32/)
 
 ## Exercises to redo:
 
