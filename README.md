@@ -28,7 +28,7 @@
 - 24-Generate_Parenthesis
 - 25-Daily_temperatures
 - 26-Car_Fleet
-- 27
+- 27-largest_rectangle_area
 
 # Binary search
 Can be detected with log(n) complexity
@@ -38,8 +38,8 @@ Can be detected with log(n) complexity
 
 
 # Linked List:
-32 - Reverse linked list
-34 - Reorder list
-39 - Find duplicate number
-40 - LRU cache
-42 - Reverse K Groups
+- 32 - Reverse linked list
+- 34 - Reorder list
+- 39 - Find duplicate number
+- 40 - LRU cache
+- 42 - Reverse K Groups
