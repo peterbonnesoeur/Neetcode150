@@ -5,16 +5,15 @@ class Solution:
         i = len(nums)
 
 
-
-        if target == nums[int(i/2)]:
-            return int(i/2)
+        if target == nums[i//2]:
+            return i//2
         elif i == 1:
             return -1
-        elif target < nums[int(i/2)]:
-            return self.search(nums[:int(i/2)], target)
+        elif target < nums[i//2]:
+            return self.search(nums[:i//2], target)
 
         elif target > nums[int(i/2)]:
-            temp_res =  self.search(nums[int(i/2):], target)
-            return int(i/2) + temp_res if temp_res != -1 else -1
+            temp_res =  self.search(nums[i//2:], target)
+            return i//2 + temp_res if temp_res != -1 else -1
 
         return res

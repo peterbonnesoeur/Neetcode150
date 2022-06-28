@@ -1,6 +1,6 @@
 # Use a counter for both words and check if differences
 
-from collections import Counter
+# Can also resort to array sorting to compare the anagrams
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         if len(s) != len(t):

@@ -1,10 +1,9 @@
 
 
-# Basic binary search where we converge to the point of dirependcy.
+# Basic binary search where we converge to the point of disrependcy.
 # when l == r, we know that we reached the end goal.
 def findMin(self, nums: List[int]) -> int:
         l, r = 0, len(nums) - 1
-        k = 0
 
         while l < r:
             mid = (l + r) // 2

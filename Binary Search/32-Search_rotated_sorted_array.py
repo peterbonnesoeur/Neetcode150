@@ -8,11 +8,14 @@ class Solution:
         k = 0
 
         while l < r:
-            if nums[l] > nums[r]:
-                r -= 1
-                k = r + 1
+            mid = (l + r) // 2
+            if nums[l] <= nums[mid]:
+                r = mid - 1
+            # right sorted portion
             else:
-                l += 1
+                l = mid + 1
+
+        k = l
 
         new_nums = nums[k:] + nums[:k]
 
