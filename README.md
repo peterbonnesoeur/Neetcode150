@@ -53,3 +53,6 @@ Can be detected with log(n) complexity
 
 # Graphs
 - 76-Visited_island
+
+# 1-D Dynamic Programming:
+- 95-Climbing stairs
