@@ -50,3 +50,6 @@ Can be detected with log(n) complexity
 
 #Backtracking
 - 67-subsets
+
+# Graphs
+- 76-Visited_island
