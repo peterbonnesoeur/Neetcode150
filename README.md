@@ -56,3 +56,6 @@ Can be detected with log(n) complexity
 
 # 1-D Dynamic Programming:
 - 95-Climbing stairs
+
+# 2-D Dynamic Programming
+-107- Unique Paths
