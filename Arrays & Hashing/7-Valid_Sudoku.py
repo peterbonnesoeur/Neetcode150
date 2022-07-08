@@ -1,5 +1,5 @@
 
-# . Easy to iunderstand solution where we just check the lines, columns and squares using dict
+# . Easy to understand solution where we just check the lines, columns and squares using dict
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
         logRows = collections.defaultdict(set)

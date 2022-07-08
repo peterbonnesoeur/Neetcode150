@@ -1,4 +1,4 @@
-# use thekey as the closure poin to check the validity of the parenthesis.
+# use the key as the closure point to check the validity of the parenthesis.
 # If the entry is not there, we just ad it to the stack. At each iteration, we pop the stack and check if the
 from collections import deque
 class Solution:
