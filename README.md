@@ -47,7 +47,7 @@ Can be detected with log(n) complexity
 # Tree
 - 45- Diameter of binary Tree
 - 46- Balanced binary tree
-
+- 49-Lowest_common_ancestor_BST
 
 #Backtracking
 - 67-subsets
