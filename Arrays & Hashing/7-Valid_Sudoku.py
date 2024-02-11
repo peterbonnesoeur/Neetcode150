@@ -34,7 +34,7 @@ def isValidSudoku(self, board: List[List[str]]) -> bool:
                     seen += [(c,j),(i,c),(i//3,j//3,c)]
         return len(seen) == len(set(seen))
 
-#c, j and  i, c are in this order to distinguisdh the row and columns (ex : ('4', 4) and (4, '4').)
+#c, j and  i, c are in this order to distinguish the row and columns (ex : ('4', 4) and (4, '4').)
 
 #In a more gruesome way, we can convert this code in :
 
