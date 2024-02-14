@@ -49,7 +49,7 @@ Can be detected with log(n) complexity
 - 46- Balanced binary tree
 - 49-Lowest_common_ancestor_BST
 
-#Backtracking
+# Backtracking
 - 67-subsets
 
 # Graphs

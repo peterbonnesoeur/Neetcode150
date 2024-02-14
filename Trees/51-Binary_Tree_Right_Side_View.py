@@ -5,6 +5,9 @@
 #         self.left = left
 #         self.right = right
 from collections import defaultdict
+
+# Here, the order is important, we just record the first time that we enter a given depth
+# And then, we we continue our traversal as usual.Hence, we must always start from the right.
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         result = defaultdict(int)
