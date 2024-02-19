@@ -2,7 +2,7 @@
 
 ## Progression
 
-![Progress](https://progress-bar.dev/46/)
+![Progress](https://progress-bar.dev/45/)
 
 ## Exercises to redo:
 
@@ -49,6 +49,7 @@ Can be detected with log(n) complexity
 - 46- Balanced binary tree
 - 49-Lowest_common_ancestor_BST
 - 53-Is_Valid_BST
+- 55-Construct_Binary_Tree_From_Preorder_And_Inorder_Traversal
 
 # Backtracking
 - 67-subsets
