@@ -36,6 +36,8 @@ Can be detected with log(n) complexity
 - 32-Search_rotating_array
 - 35-Median_of_2_sorte_arrays
 
+# Tries:
+59 -> make one more solution, I went with the easy one
 
 # Linked List:
 - 32 - Reverse linked list
