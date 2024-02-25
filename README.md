@@ -37,7 +37,7 @@ Can be detected with log(n) complexity
 - 35-Median_of_2_sorte_arrays
 
 # Tries:
-59 -> make one more solution, I went with the easy one
+59 ->  This is a really tricky one.A dfs implementation that can be refined with early stopping mechanism. I had to watch vids about advanced tries for that...
 
 # Linked List:
 - 32 - Reverse linked list
