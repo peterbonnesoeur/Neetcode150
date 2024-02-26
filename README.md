@@ -55,6 +55,7 @@ Can be detected with log(n) complexity
 
 # Backtracking
 - 67-subsets
+- 69-permutations
 
 # Graphs
 - 76-Visited_island
