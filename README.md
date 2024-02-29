@@ -56,6 +56,8 @@ Can be detected with log(n) complexity
 # Backtracking
 - 67-subsets
 - 69-permutations
+- 70=subset-2 -> really tricky as the rule of the exercise are arguably wrong...
+
 
 # Graphs
 - 76-Visited_island
