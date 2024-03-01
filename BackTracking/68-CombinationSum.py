@@ -27,3 +27,28 @@ class Solution:
 
         dfs(0, 0)
         return res
+
+# A better and slicker solution
+class Solution:
+    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        result = []
+        subset = []
+
+        def dfs(array, current_sum):
+            for i,item in enumerate(array):
+                test = current_sum + item
+
+                if test > target:
+                    continue
+                elif test == target:
+                    result.append(list(subset) + [item])
+                    continue
+
+                subset.append(item)
+
+                # we can consider only the
+                dfs(array[i:], test)
+                subset.pop()
+
+        dfs(sorted(set(candidates)),0)
+        return result
