@@ -58,6 +58,11 @@ Can be detected with log(n) complexity
 - 69-permutations
 - 70=subset-2 -> really tricky as the rule of the exercise are arguably wrong...
 
+# Heap
+- 63 - Cooling down ->We need to see the heaps there...
+- 64 - Kth_largest
+- 66 - FindMedian -> Heaps obvious but try to redo all computation on paper pls
+
 
 # Graphs
 - 76-Visited_island
