@@ -1,7 +1,7 @@
 # basically a brute force approac.
 
 # We are walking through the island andremembering when we are visiting a peculiar node of the island
-# This solution is altough quite slow.
+# This solution is although quite slow.
 class Solution:
     class Graph:
         def __init__(self, grid : List[List[str]], island = "1" ):
