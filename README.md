@@ -66,6 +66,7 @@ Can be detected with log(n) complexity
 
 # Graphs
 - 76-Visited_island
+- 78 - Max area island : Need to study the BFS again
 
 # 1-D Dynamic Programming:
 - 95-Climbing stairs
