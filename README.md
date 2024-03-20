@@ -63,6 +63,9 @@ Can be detected with log(n) complexity
 - 64 - Kth_largest
 - 66 - FindMedian -> Heaps obvious but try to redo all computation on paper pls
 
+# Math & Geometry
+
+- Plus one -> just for the pleasure of over-engineering it.
 
 # Graphs
 - 76-Visited_island
