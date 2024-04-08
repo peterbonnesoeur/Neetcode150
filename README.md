@@ -70,6 +70,7 @@ Can be detected with log(n) complexity
 # Graphs
 - 76-Visited_island
 - 78 - Max area island : Need to study the BFS again
+- 86 - union find but I also want to find something else a bit more BFS style...
 
 # 1-D Dynamic Programming:
 - 95-Climbing stairs
