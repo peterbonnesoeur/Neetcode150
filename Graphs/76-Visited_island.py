@@ -48,7 +48,7 @@ class Solution:
 
         return count
 
-# Similar solution wherethegrid for visited nodes is replaced by a set:
+# Similar solution where the grid for visited nodes is replaced by a set:
 
 def numIslands(self, grid: List[List[str]]) -> int:
         if not grid or not grid[0]:
