@@ -67,6 +67,9 @@ Can be detected with log(n) complexity
 
 - Plus one -> just for the pleasure of over-engineering it.
 
+# Intervals
+- 130 meeting room 2
+
 # Graphs
 - 76-Visited_island
 - 78 - Max area island : Need to study the BFS again
@@ -77,3 +80,14 @@ Can be detected with log(n) complexity
 
 # 2-D Dynamic Programming
 -107- Unique Paths
+
+# Greedy
+119
+120
+123
+125
+
+# Bit manipulation
+143
+144
+145
