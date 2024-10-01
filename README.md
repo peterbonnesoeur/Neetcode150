@@ -66,6 +66,8 @@ Can be detected with log(n) complexity
 # Math & Geometry
 
 - Plus one -> just for the pleasure of over-engineering it.
+- 132 - rotate image
+
 
 # Intervals
 - 130 meeting room 2
@@ -77,6 +79,9 @@ Can be detected with log(n) complexity
 
 # 1-D Dynamic Programming:
 - 95-Climbing stairs
+- 97 House robber
+- 102 Coin Change
+- 106 Can Partition
 
 # 2-D Dynamic Programming
 -107- Unique Paths
