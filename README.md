@@ -85,6 +85,17 @@ Can be detected with log(n) complexity
 
 # 2-D Dynamic Programming
 -107- Unique Paths
+-108 - Longest common subsequence
+- 109 MaxProfit
+- 110 Coin change 2
+- 111 target sum
+- 112 isInterleave
+- 113 Longest Increasing Path
+- 115 minDistance
+- 117 Regex
+- 119 CanJump1
+- 123 Merge triplets
+- 125 Check Valid Parenthesis string
 
 # Greedy
 119
