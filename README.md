@@ -2,7 +2,7 @@
 
 
 ## **Sharpening My Coding Edge with Neetcode150**
-
+![Progress](https://geps.dev/progress/100/)
 Hi there! Welcome to my journey of mastering `Neetcode150`. Whether you're here to track my progress, evaluate my dedication to problem-solving, or just curious—this is where the magic happens. ✨
 
 This repo contains the problems as well as a **short resume of each "section" of code exercises for an easy summary of each category.**
