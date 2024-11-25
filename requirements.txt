@@ -1,0 +1,5 @@
+# external requirements         # License
+flake8 >= 3.7.9                 # MIT
+black[jupyter]                  # MIT
+nbdev                           # MIT
+pre-commit                      # MIT
